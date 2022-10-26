@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/useEffek.users/static/css/main.fbcf396c.css",
+    "main.js": "/useEffek.users/static/js/main.3349772c.js",
+    "index.html": "/useEffek.users/index.html",
+    "main.fbcf396c.css.map": "/useEffek.users/static/css/main.fbcf396c.css.map",
+    "main.3349772c.js.map": "/useEffek.users/static/js/main.3349772c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbcf396c.css",
+    "static/js/main.3349772c.js"
+  ]
+}
